@@ -1,6 +1,6 @@
 # Hey there 👋 I'm Suraj Prakash Gupta  
 
-🚀 **Tech Enthusiast | Python & AI ML Learner | Enthusiast Developer**  
+**Tech Enthusiast | Python & AI ML Learner | Enthusiast Developer**  
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Languages & Tools  
+###  Languages & Tools  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
