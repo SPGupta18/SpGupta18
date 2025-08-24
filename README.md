@@ -5,10 +5,10 @@
 ---
 
 ### 🧑‍💻 About Me  
-- 💡 Exploring **Python, Machine Learning, and WebDev**  
-- 🌱 Currently building projects in **TypeScript, Python, and AI/ML**  
-- 🔭 Love solving problems and creating impactful solutions  
-- ⚡ Fun fact: I enjoy coocking 🥐🍰 along with coding!  
+-  Exploring **Python, Machine Learning, and WebDev**  
+-  Currently building projects in **TypeScript, Python, and AI/ML**  
+-  Love solving problems and creating impactful solutions  
+-  Fun fact: I enjoy coocking 🥐🍰 along with coding!  
 
 ---
 
