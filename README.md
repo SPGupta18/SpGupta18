@@ -1,15 +1,14 @@
 # Hey there 👋 I'm Suraj Prakash Gupta  
 
-🚀 **Tech Enthusiast | Python & Data Science Learner | Developer from India**  
+🚀 **Tech Enthusiast | Python & AI ML Learner | Enthusiast Developer**  
 
 ---
 
 ### 🧑‍💻 About Me  
-- 🎓 Final year **ECE student** at RV Institute of Technology & Management, Bengaluru  
-- 💡 Exploring **Python, Machine Learning, and Data Analytics**  
+- 💡 Exploring **Python, Machine Learning, and WebDev**  
 - 🌱 Currently building projects in **TypeScript, Python, and AI/ML**  
 - 🔭 Love solving problems and creating impactful solutions  
-- ⚡ Fun fact: I enjoy baking 🥐🍰 along with coding!  
+- ⚡ Fun fact: I enjoy coocking 🥐🍰 along with coding!  
 
 ---
 
@@ -54,4 +53,4 @@
 
 ---
 
-✨ *"Keep building, keep learning, and keep growing!"* ✨
+✨ *"Keep building, keep learning, and keep growing!"* 
