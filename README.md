@@ -41,7 +41,6 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SPGupta18&show_icons=true&theme=radical" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SPGupta18&layout=compact&theme=radical" height="180em" />
 </p>
 
